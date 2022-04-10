@@ -1,14 +1,62 @@
 [
   {
-    "name": "First Wallpaper",
-    "url": "https://www.example.com/first-wallpaper.png"
+    "name": "Wall 01",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/01-min.jpg"
   },
   {
-    "name": "Second Wallpaper",
-    "url": "https://www.example.com/second-wallpaper.png"
+    "name": "Wall 02",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/02-min.jpg"
   },
   {
-    "name": "Third Wallpaper",
-    "url": "https://www.example.com/third-wallpaper.png"
+    "name": "Wall 03",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/03-min.jpg"
+  },
+  {
+    "name": "Wall 04",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/04-min.jpg"
+  },
+  {
+    "name": "Wall 05",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/05-min.jpg"
+  },
+  {
+    "name": "Wall 06",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/06-min.jpg"
+  },
+  {
+    "name": "Wall 07",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/07-min.jpg"
+  },
+  {
+    "name": "Wall 08",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/08-min.jpg"
+  },
+  {
+    "name": "Wall 09",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/09-min.jpg"
+  },
+  {
+    "name": "Wall 10",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/10-min.jpg"
+  },
+  {
+    "name": "Wall 11",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/11-min.jpg"
+  },
+  {
+    "name": "Wall 12",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/12-min.jpg"
+  },
+  {
+    "name": "Wall 13",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/13-min.jpg"
+  },
+  {
+    "name": "Wall 14",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/14-min.jpg"
+  },
+  {
+    "name": "Wall 15",
+    "url": "https://raw.githubusercontent.com/FayezAhmed/Radiant-Icon-Pack/main/wallpapers/15-min.jpg"
   }
 ]
